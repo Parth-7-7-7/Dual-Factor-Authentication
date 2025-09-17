@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+
+# Flask session data
+flask_session/
+
+# Output folder for processed images/videos
+output/
+
+# Python cache
+__pycache__/
+*.pyc
